@@ -15,8 +15,8 @@ cd /path/to/project jupyter notebook
 ```
 
 ## Contributing
-Austin Viveiros
-Liam Hogan 
-Liam Beliveau
+Austin Viveiros,
+Liam Hogan, 
+Liam Beliveau,
 Bill Hogan
 
